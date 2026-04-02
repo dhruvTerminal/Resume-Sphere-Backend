@@ -1,0 +1,777 @@
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/appsettings.Development.json
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/appsettings.json
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/ResumeAPI.exe
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/ResumeAPI.deps.json
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/ResumeAPI.runtimeconfig.json
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/ResumeAPI.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/ResumeAPI.pdb
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/DocumentFormat.OpenXml.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/DocumentFormat.OpenXml.Framework.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/Humanizer.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/Npgsql.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Core.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Fonts.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Package.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Tokenization.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Tokens.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/System.CodeDom.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/System.IO.Packaging.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/ResumeMaker/ResumeAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/ResumeMaker/ResumeAPI/obj/Debug/net8.0/ResumeAPI.csproj.AssemblyReference.cache
+C:/ResumeMaker/ResumeAPI/obj/Debug/net8.0/ResumeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/ResumeMaker/ResumeAPI/obj/Debug/net8.0/ResumeAPI.AssemblyInfoInputs.cache
+C:/ResumeMaker/ResumeAPI/obj/Debug/net8.0/ResumeAPI.AssemblyInfo.cs
+C:/ResumeMaker/ResumeAPI/obj/Debug/net8.0/ResumeAPI.csproj.CoreCompileInputs.cache
+C:/ResumeMaker/ResumeAPI/obj/Debug/net8.0/ResumeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/ResumeMaker/ResumeAPI/obj/Debug/net8.0/ResumeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/ResumeMaker/ResumeAPI/obj/Debug/net8.0/staticwebassets.build.json
+C:/ResumeMaker/ResumeAPI/obj/Debug/net8.0/staticwebassets.development.json
+C:/ResumeMaker/ResumeAPI/obj/Debug/net8.0/staticwebassets/msbuild.ResumeAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/ResumeMaker/ResumeAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.ResumeAPI.props
+C:/ResumeMaker/ResumeAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ResumeAPI.props
+C:/ResumeMaker/ResumeAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ResumeAPI.props
+C:/ResumeMaker/ResumeAPI/obj/Debug/net8.0/staticwebassets.pack.json
+C:/ResumeMaker/ResumeAPI/obj/Debug/net8.0/scopedcss/bundle/ResumeAPI.styles.css
+C:/ResumeMaker/ResumeAPI/obj/Debug/net8.0/ResumeAPI.csproj.Up2Date
+C:/ResumeMaker/ResumeAPI/obj/Debug/net8.0/ResumeAPI.dll
+C:/ResumeMaker/ResumeAPI/obj/Debug/net8.0/refint/ResumeAPI.dll
+C:/ResumeMaker/ResumeAPI/obj/Debug/net8.0/ResumeAPI.pdb
+C:/ResumeMaker/ResumeAPI/obj/Debug/net8.0/ResumeAPI.genruntimeconfig.cache
+C:/ResumeMaker/ResumeAPI/obj/Debug/net8.0/ref/ResumeAPI.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/appsettings.Development.json
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/appsettings.json
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI.exe
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI.deps.json
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI.runtimeconfig.json
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI.pdb
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/DocumentFormat.OpenXml.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/DocumentFormat.OpenXml.Framework.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Humanizer.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Npgsql.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Core.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Fonts.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Package.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Tokenization.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Tokens.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.CodeDom.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.IO.Packaging.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.csproj.AssemblyReference.cache
+C:/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.AssemblyInfoInputs.cache
+C:/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.AssemblyInfo.cs
+C:/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.csproj.CoreCompileInputs.cache
+C:/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Resume_Backend/ResumeAPI/obj/Debug/net8.0/staticwebassets.build.json
+C:/Resume_Backend/ResumeAPI/obj/Debug/net8.0/staticwebassets.development.json
+C:/Resume_Backend/ResumeAPI/obj/Debug/net8.0/staticwebassets/msbuild.ResumeAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Resume_Backend/ResumeAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.ResumeAPI.props
+C:/Resume_Backend/ResumeAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ResumeAPI.props
+C:/Resume_Backend/ResumeAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ResumeAPI.props
+C:/Resume_Backend/ResumeAPI/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Resume_Backend/ResumeAPI/obj/Debug/net8.0/scopedcss/bundle/ResumeAPI.styles.css
+C:/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.csproj.Up2Date
+C:/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.dll
+C:/Resume_Backend/ResumeAPI/obj/Debug/net8.0/refint/ResumeAPI.dll
+C:/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.pdb
+C:/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.genruntimeconfig.cache
+C:/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ref/ResumeAPI.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/appsettings.Development.json
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/appsettings.json
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI.staticwebassets.endpoints.json
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI.exe
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI.deps.json
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI.runtimeconfig.json
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI.pdb
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/DocumentFormat.OpenXml.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/DocumentFormat.OpenXml.Framework.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Humanizer.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Mono.TextTemplating.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Npgsql.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Core.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Fonts.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Package.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Tokenization.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Tokens.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.CodeDom.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.Composition.Convention.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.Composition.Hosting.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.Composition.Runtime.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.Composition.TypedParts.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.IO.Packaging.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.csproj.AssemblyReference.cache
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/rpswa.dswa.cache.json
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.AssemblyInfoInputs.cache
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.AssemblyInfo.cs
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.csproj.CoreCompileInputs.cache
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.MvcApplicationPartsAssemblyInfo.cs
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.MvcApplicationPartsAssemblyInfo.cache
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/rjimswa.dswa.cache.json
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/scopedcss/bundle/ResumeAPI.styles.css
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/staticwebassets.build.json
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/staticwebassets.build.json.cache
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/staticwebassets.development.json
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.csproj.Up2Date
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/refint/ResumeAPI.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.pdb
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.genruntimeconfig.cache
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ref/ResumeAPI.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/BCrypt.Net-Next.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+D:/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/appsettings.Development.json
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/appsettings.json
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI.deps.json
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI.runtimeconfig.json
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI.pdb
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/DocumentFormat.OpenXml.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/DocumentFormat.OpenXml.Framework.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Humanizer.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Npgsql.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Core.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Fonts.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Package.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Tokenization.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Tokens.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.CodeDom.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.IO.Packaging.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.csproj.AssemblyReference.cache
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.GeneratedMSBuildEditorConfig.editorconfig
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.AssemblyInfoInputs.cache
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.AssemblyInfo.cs
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.csproj.CoreCompileInputs.cache
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.MvcApplicationPartsAssemblyInfo.cs
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.MvcApplicationPartsAssemblyInfo.cache
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/staticwebassets.build.json
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/staticwebassets.development.json
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/staticwebassets/msbuild.ResumeAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.ResumeAPI.props
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ResumeAPI.props
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ResumeAPI.props
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/scopedcss/bundle/ResumeAPI.styles.css
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.csproj.Up2Date
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/refint/ResumeAPI.dll
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.pdb
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.genruntimeconfig.cache
+/home/dhruv/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ref/ResumeAPI.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/appsettings.Development.json
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/appsettings.json
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI.staticwebassets.endpoints.json
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI.deps.json
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI.runtimeconfig.json
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI.pdb
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/DocumentFormat.OpenXml.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/DocumentFormat.OpenXml.Framework.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Humanizer.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Npgsql.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Core.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Fonts.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Package.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Tokenization.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Tokens.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.CodeDom.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.IO.Packaging.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.csproj.AssemblyReference.cache
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/rpswa.dswa.cache.json
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.GeneratedMSBuildEditorConfig.editorconfig
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.AssemblyInfoInputs.cache
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.AssemblyInfo.cs
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.csproj.CoreCompileInputs.cache
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.MvcApplicationPartsAssemblyInfo.cs
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.MvcApplicationPartsAssemblyInfo.cache
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/scopedcss/bundle/ResumeAPI.styles.css
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/staticwebassets.build.json
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/staticwebassets.build.json.cache
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/staticwebassets.development.json
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/swae.build.ex.cache
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.csproj.Up2Date
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/refint/ResumeAPI.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.pdb
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.genruntimeconfig.cache
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ref/ResumeAPI.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.sourcelink.json
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/appsettings.Development.json
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI.staticwebassets.endpoints.json
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/appsettings.json
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI.deps.json
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI.runtimeconfig.json
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ResumeAPI.pdb
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/DocumentFormat.OpenXml.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/DocumentFormat.OpenXml.Framework.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Humanizer.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/MailKit.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/MimeKit.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Npgsql.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Core.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Fonts.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Package.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Tokenization.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.Tokens.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/UglyToad.PdfPig.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.CodeDom.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.IO.Packaging.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.csproj.AssemblyReference.cache
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/obj/Debug/net8.0/rpswa.dswa.cache.json
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.GeneratedMSBuildEditorConfig.editorconfig
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.AssemblyInfoInputs.cache
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.AssemblyInfo.cs
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.csproj.CoreCompileInputs.cache
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.MvcApplicationPartsAssemblyInfo.cs
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.MvcApplicationPartsAssemblyInfo.cache
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.sourcelink.json
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/obj/Debug/net8.0/scopedcss/bundle/ResumeAPI.styles.css
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/obj/Debug/net8.0/staticwebassets.build.json
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/obj/Debug/net8.0/staticwebassets.build.json.cache
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/obj/Debug/net8.0/staticwebassets.development.json
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/obj/Debug/net8.0/swae.build.ex.cache
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.csproj.Up2Date
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/obj/Debug/net8.0/refint/ResumeAPI.dll
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.pdb
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ResumeAPI.genruntimeconfig.cache
+/home/dhruvaggarwal/Documents/Resume_Sphere (2)/Resume_Backend/ResumeAPI/obj/Debug/net8.0/ref/ResumeAPI.dll
